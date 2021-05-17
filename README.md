@@ -1,1 +1,2 @@
-# ojaswi
+# synchronousBallMovement
+Ball moving synchronously
